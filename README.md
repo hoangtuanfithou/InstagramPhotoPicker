@@ -8,8 +8,8 @@ InstagramPhotoPicker
 ###TWInstagramPhotoPicker:###
 Present Image Picker like Instagram
 
-* lets you add custom actions to extend the picker
-* allows you to select different photo albums
+* lets you add custom actions to extend the picker.
+* allows you to select different photo albums.
 
 ## Installation
 
